@@ -12,6 +12,7 @@ export default function Page() {
       <Home />
       <Form />
       <Bottom />
+      
       <Footer />
 
     </main>
